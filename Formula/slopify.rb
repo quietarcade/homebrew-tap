@@ -1,8 +1,8 @@
 class Slopify < Formula
   desc "Rewrite any sentence in over-the-top AI corporate cadence"
   homepage "https://github.com/quietarcade/slopify"
-  url "https://github.com/quietarcade/slopify/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "a734c44366db24cf0692f7fcd4504e921e73fd4979cc9a946951731f635bc825"
+  url "https://github.com/quietarcade/slopify/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "f69ca5715077c63eb2611629536082047a1cb69aa3ad81411298f845d28e6b2f"
   license "MIT"
 
   def install
